@@ -22,7 +22,8 @@
 gcc scanner-win32.c -o scanner-win32.exe
 ```
 ## 使用教程
-直接powershell执行:`scanner-win32.exe [端口号] 波特率`
+直接powershell执行:`scanner-win32.exe [端口号] 波特率` 。
+![1692940367852](image/readme/1692940367852.png)
 ```sh
 scanner-win32.exe COM2 9600
 ```
